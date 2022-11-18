@@ -27,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=werg0d&show_icons=true&theme=dark&title_color=eeff00&locale=en" alt="werg0d" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=werg0d&theme=dark" alt="werg0d" /></p>
+
+<h3 align="left">My Spotify history >///////< :</h3>
+![DON'T JUDGE MEEE](https://spotify-recently-played-readme.vercel.app/api?user=n94rniz3peuwylczb0uawkp12)
