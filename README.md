@@ -1,65 +1,31 @@
-### Hi there, I'm Wer  👋
+<h1 align="center">Yo, my name is Davi, AKA Wer</h1>
+<h3 align="center">I'm a computer science and software engineering student!</h3>
 
-<div>
-  <a href="https://github.com/WerG0D">
-  <img height="180em" src="https://github-readme-stats-eta-steel-93.vercel.app/api?username=WerG0D&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eta-steel-93.vercel.app/api/top-langs/?username=WerG0D&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
-<div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=werg0d&label=Profile%20views&color=ffdd00&style=plastic" alt="werg0d" /> </p>
 
-## I'm a Developer, Ethical Hacker and Gamer
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=werg0d" alt="werg0d" /></a> </p>
 
-- 👨‍ I´m 19 years old.
-- 🌱 I'm studying ethical hacking and python... a lot.
-- 👯 I’m looking to develop some python games :D
-- 🥅 2023 Goals: Make a functional DDoS hacking tool
-- ⚡ Fun fact: I am the storm that is approaching(<https://www.youtube.com/watch?v=sFsq8Pb0Meo>)
+- 🔭 I’m currently working on [Tales of Sophia Game](https://github.com/WerG0D/PyGProject)
 
-### Spotify Playing 🎧
+- 🌱 I’m currently learning **Python, Java, Linux and Ethical Hacking**
 
-[<img src="https://spotify-now-playing.diogomarques.dev/" alt="Diogo Spotify Playing" width="350" />](https://open.spotify.com/user/atnl56f4mzf1ssw653mg8n399)
+- 📫 How to reach me **davigwerneck@gmail.com**
 
-### Connect with me
+- 📄 Know about my experiences [https://www.linkedin.com/in/daviwerneck/](https://www.linkedin.com/in/daviwerneck/)
 
-[<img align="left" alt="Diogo | Instagram" width="22px" src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/instagram-icon.svg" width="50" height="50" />][instagram]
-[<img align="left" alt="Diogo | Discord" width="22px" src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/discord.svg" width="50" height="50" />][discord]
+- ⚡ Fun fact **I am the storm that is approaching(<https://www.youtube.com/watch?v=sFsq8Pb0Meo>)**
 
-<br />
-<br />
-
-### 🔨Languages and Tools
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://devdocs.io/c/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/c.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/VB.NET.png" alt="VB.NET" width="40" height="40"/> </a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/c-sharp.svg" alt="c#" width="40" height="40"/> </a>
-<a href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/sql.png" alt="SQL" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/html-5.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/css3.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/javascript.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.lua.org/docs.html" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/lua.svg" alt="lua" width="40" height="40"/> </a>
-<a href="https://reactjs.org/docs/getting-started.html" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/react.svg" alt="react.js" width="40" height="40"/> </a>
-<a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/java.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://golang.org/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/go.svg" alt="Golang" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/visual-studio-code.svg" alt="vscode" width="40" height="40"/> </a>
-<a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/visual-studio.svg" alt="visual studio" width="40" height="40"/> </a>
+<a href="https://linkedin.com/in/daviwerneck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daviwerneck" height="30" width="40" /></a>
+<a href="https://discord.gg/Wer#5376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Wer#5376" height="30" width="40" /></a>
 </p>
 
-<p align="left">
-<a href="https://nodejs.org" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/mysql.png" alt="mysql" width="70"/> </a>
-<a href="https://firebase.google.com/?hl=pt-br" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/firebase.svg" alt="firebase" width="30"/> </a>
-<a href="https://docs.mongodb.com/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/mongodb.svg" alt="mongoDB" width="70" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/postman.svg" alt="Postman" width="40" height="40"/> </a>
-<a href="https://insomnia.rest" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/insomnia.svg" alt="insomnia" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/git.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/github-icon.svg" alt="github" width="40" height="40"/> </a>
-<a href="https://www.sublimetext.com/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/sublimetext.svg" alt="sublime" width="70" height="40"/> </a>
-<a href="https://hyper.is/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/hyper.svg" alt="hyper" width="40" height="40"/> </a>
-<a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/spring-icon.svg" alt="spring" width="40" height="40"/> </a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-![Snake animation](https://github.com/DiogoMarques2003/DiogoMarques2003/blob/output/github-contribution-grid-snake.svg)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=werg0d&show_icons=true&theme=synthwave&title_color=fbff00&locale=en&layout=compact" alt="werg0d" /></p>
 
-[instagram]: https://instagram.com/diogomarques2003
-[discord]: https://discord.com/users/327332773108908032
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=werg0d&show_icons=true&theme=synthwave&title_color=fbff00&locale=en" alt="werg0d" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=werg0d&theme=dark" alt="werg0d" /></p>
