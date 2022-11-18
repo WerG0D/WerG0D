@@ -30,4 +30,4 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing.diogomarques.dev/" alt="Diogo Spotify Playing" width="350" />](https://open.spotify.com/user/atnl56f4mzf1ssw653mg8n399)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=n94rniz3peuwylczb0uawkp12&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=eeff00)](https://github.com/WerG0D/WerG0D)
