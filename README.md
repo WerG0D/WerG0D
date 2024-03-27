@@ -15,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/daviwerneck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daviwerneck" height="30" width="40" /></a>
 <a href="https://discord.gg/Wer#5376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Wer#5376" height="30" width="40" /></a>
 </p>
 
@@ -27,7 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=werg0d&show_icons=true&theme=dark&title_color=eeff00&locale=en" alt="werg0d" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=werg0d&theme=dark" alt="werg0d" /></p>
-
-### Spotify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=n94rniz3peuwylczb0uawkp12&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=eeff00)](https://github.com/WerG0D/WerG0D)
