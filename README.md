@@ -11,8 +11,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/daviwerneckt/](https://www.linkedin.com/in/daviwerneckt/)
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=werg0d&show_icons=true&theme=dark&title_color=eeff00&locale=en" alt="werg0d" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=werg0d&show_icons=true&theme=dark&title_color=ffea00&locale=en&layout=compact" alt="werg0d" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=werg0d&theme=dark" alt="werg0d" /></p>
