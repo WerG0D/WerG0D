@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Tales of Sophia Game](https://github.com/WerG0D/ToSGodotProject)
 
-- 🌱 I’m currently learning **Python, Rust, C#, Linux and Ethical Hacking**
+- 🌱 I’m currently learning **Rust, C#, and Ethical Hacking**
 
 - 📫 How to reach me: **davigwerneck@gmail.com**
 
