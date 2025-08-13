@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=werg0d&label=Profile%20views&color=eeff00&style=flat" alt="werg0d" /> </p>
 
-- I’m currently working on [Tales of Sophia Game](https://github.com/WerG0D/Anoxia)
+- I’m currently working on [Anoxia](https://github.com/WerG0D/Anoxia)
 
 - I’m currently learning **Rust, C#, and Ethical Hacking**
 
