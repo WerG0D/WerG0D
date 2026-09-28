@@ -1,9 +1,7 @@
 # Davi Werneck | Wer
-<img src="./assets/killua-banner.jpeg" width="100%"/>
 
 <p align="left"> Backend Developer. Proficient in building performatic APIs and
-translating ideias into functional applications. Eager to contribute and grow within a
-dynamic team.</p>
+translating ideias into functional applications.</p>
 
 <a href="https://youtu.be/xvFZjo5PgG0?si=4g5LqRk7biVjJ7Sq"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
@@ -142,8 +140,6 @@ dynamic team.</p>
   <a href="https://github.com/WerG0D" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- Discord -->
-  <img src="https://dcbadge.limes.pink/api/shield/292386701462994954" alt="My Discord" />
   
   <!-- Instagram -->
   <a href="https://www.instagram.com/daviwerneckt" target="_blank">
@@ -153,5 +149,3 @@ dynamic team.</p>
 
 <a href="https://youtu.be/xvFZjo5PgG0?si=4g5LqRk7biVjJ7Sq"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
-
-<img src="./assets/sanji.jpg" width="100%" height="100%"/>
